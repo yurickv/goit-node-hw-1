@@ -42,5 +42,3 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
 };
 
 invokeAction(argv);
-
-// node index.js --action="change" --name Mango-Django --email mango@gmail.com --phone 322-22-22 --id MhpSazYQQ4JO7FcelI3DC
